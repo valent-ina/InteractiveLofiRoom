@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 41
+  controlID: 97
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -346,9 +346,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d8b90000
-    m_LastClickedID: 47576
-    m_ExpandedIDs: 00000000f2b7000000ca9a3b
+    m_SelectedIDs: 68bc0000
+    m_LastClickedID: 48232
+    m_ExpandedIDs: 0000000080ba000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f2b70000
+    m_ExpandedIDs: 0000000080ba0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000127d0000267e0000427f00003c7f00007082000060810000b2a20000a0a20000aca20000b8a20000bea2000046790000c4a20000a6a200003cad000052800000fc800000000000002483000040a5020060830000c8db0000b6be0000cabe00003cb40000feb900003acf0000eece00008ac5000068150100acb50000dab60000f8b6000034b7000020ba0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -474,9 +474,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d8b90000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9ae6fffface6ffff32e9ffff4ae9ffff0cfbffff
+      m_ExpandedIDs: 0cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1094,9 +1094,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.47876576, y: -0.5345329, z: -9.898968}
+    m_Target: {x: 5.475094, y: -1.0838977, z: -9.874064}
     speed: 2
-    m_Value: {x: 0.47876576, y: -0.5345329, z: -9.898968}
+    m_Value: {x: 5.475094, y: -1.0838977, z: -9.874064}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1146,9 +1146,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 5.790184
+    m_Target: 3.2997215
     speed: 2
-    m_Value: 5.790184
+    m_Value: 3.2997215
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1276,7 +1276,7 @@ MonoBehaviour:
       height: 720
     m_MinimalGUI: 1
   m_defaultScale: 0.80046296
-  m_LastWindowPixelSize: {x: 1626, y: 896}
+  m_LastWindowPixelSize: {x: 1084, y: 597.3333}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
